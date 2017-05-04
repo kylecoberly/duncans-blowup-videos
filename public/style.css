@@ -1,0 +1,10 @@
+.hero img {
+    max-width: 500px;
+}
+
+.blowups li {
+    list-style: none;
+}
+.blowups li img, .blowups li iframe {
+    max-width: 500px;
+}
